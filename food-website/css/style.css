@@ -1,0 +1,15 @@
+.colors {
+  background-color: #b3c5e6;
+  color: #ac2558;
+  font-family: Courier;
+}
+.school {
+  font-family: Impact;
+  Font-size: 50px;
+  color: rgba(022, 255, 154, 0.4);
+}
+a:hover { 
+   color: #f98a9a;
+   font-family: Times New Roman;
+  font-size: 40px;
+}
