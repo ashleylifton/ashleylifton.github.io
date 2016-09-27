@@ -3,13 +3,48 @@
   color: #ac2558;
   font-family: Courier;
 }
+
 .school {
-  font-family: Impact;
+  font-family: Georgia;
   Font-size: 50px;
-  color: rgba(022, 255, 154, 0.4);
+  color: rgba(020, 255, 150, 0.6);
 }
-a:hover { 
-   color: #f98a9a;
-   font-family: Times New Roman;
-  font-size: 30px;
+
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  background: linear-gradient(#b41a68, #b95d8d, #d4777f, #fcb0b3) fixed;
+}
+
+a:hover {
+  color: #003366;
+  font-family: Serif;
+  font-size: 18px;
+}
+
+a {
+  margin: auto;
+}
+
+.float-right {
+  margin: 900;
+  height: 300px;
+  float: right;
+  margin: 10px 0 2px 16px;
+  padding-right: 250px;
+  padding-bottom: 300px;
+}
+
+.pink {
+  font-size: 22px;
+  font-family: Times New Roman;
+}
+
+.two-images {
+  margin: 900;
+  height: 300px;
+  float: right;
+  margin: 300px;
+  padding-left: 100px;
+  padding-bottom: 300px;
 }
